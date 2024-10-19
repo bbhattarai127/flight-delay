@@ -1,4 +1,3 @@
-```markdown
 # Flight Delay Prediction Project
 
 ## Overview
@@ -26,7 +25,6 @@ This project aims to predict flight delays using various machine learning techni
 1. Clone the repository:
    ```bash
    git clone https://github.com/bbhattarai127/flight-delay.git
-   ```
 
 2. Navigate to the project directory:
    ```bash
